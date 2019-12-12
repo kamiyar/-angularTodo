@@ -1,0 +1,17 @@
+.del{
+  border-radius: 50%;
+  background-color: red;
+  border: none;
+  float: right;
+  margin: 0 15px;
+
+}
+.todo{
+  width: 80%;
+  background-color: #eaeaea;
+  border: 1px solid #c4c4c4;
+  margin: 0 auto -1px;
+}
+.is-completed{
+  text-decoration: line-through;
+}
